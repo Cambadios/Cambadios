@@ -161,7 +161,6 @@ Desarrollo web freelance con enfoque en experiencia de usuario y automatización
 
 </div>
 
-> 💡 Si más adelante querés las tarjetas visuales de estadísticas (contribuciones, racha, lenguajes más usados), se pueden agregar con [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — es un servicio gratuito que a veces se satura y las imágenes no cargan. Te dejo la nota abajo por si querés intentar activarlo más adelante.
 
 
 <div align="center">
