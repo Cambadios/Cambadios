@@ -168,6 +168,6 @@ class Sergio:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
 
-*"Convertir problemas reales en soluciones digitales escalables."*
+*"Camba"*
 
 </div>
