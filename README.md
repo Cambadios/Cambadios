@@ -35,7 +35,14 @@ class Sergio:
         return "Convertir problemas reales en soluciones digitales escalables."
 ```
 
+<!-- OPCIÓN B: versión sin código, más simple. Si preferís esta, borrá el bloque de código de arriba y descomentá este texto:
 
+Soy Ingeniero de Sistemas graduado con honores de la Escuela Militar de Ingeniería (EMI), especializado en
+desarrollo web full-stack y Business Intelligence. Mi enfoque está en construir soluciones digitales
+escalables usando Python, React, SQL y MongoDB. Fuera del código, soy futbolista activo en Primera División
+y me apasiona seguir aprendiendo cosas nuevas todo el tiempo.
+
+-->
 
 - 🔭 Actualmente trabajando como **Técnico de Soporte de TI y Sistemas** en Solara Hotel Boutique (Asunción, Paraguay)
 - 🎓 Cursando **Maestría en Educación Superior** — Universidad Nacional Siglo XX
@@ -154,14 +161,27 @@ Desarrollo web freelance con enfoque en experiencia de usuario y automatización
 
 </div>
 
+> 💡 Si más adelante querés las tarjetas visuales de estadísticas (contribuciones, racha, lenguajes más usados), se pueden agregar con [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — es un servicio gratuito que a veces se satura y las imágenes no cargan. Te dejo la nota abajo por si querés intentar activarlo más adelante.
 
-
+<!--
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Cambadios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cambadios&theme=tokyonight&hide_border=true" width="49%" />
 </div>
+-->
 
 
+<br>
+
+## 🐍 Actividad en GitHub
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cambadios/Cambadios/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cambadios/Cambadios/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente comiendo mis contribuciones de GitHub" src="https://raw.githubusercontent.com/Cambadios/Cambadios/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 <br>
 
