@@ -35,6 +35,15 @@ class Sergio:
         return "Convertir problemas reales en soluciones digitales escalables."
 ```
 
+<!-- OPCIÓN B: versión sin código, más simple. Si preferís esta, borrá el bloque de código de arriba y descomentá este texto:
+
+Soy Ingeniero de Sistemas graduado con honores de la Escuela Militar de Ingeniería (EMI), especializado en
+desarrollo web full-stack y Business Intelligence. Mi enfoque está en construir soluciones digitales
+escalables usando Python, React, SQL y MongoDB. Fuera del código, soy futbolista activo en Primera División
+y me apasiona seguir aprendiendo cosas nuevas todo el tiempo.
+
+-->
+
 - 🔭 Actualmente trabajando como **Técnico de Soporte de TI y Sistemas** en Solara Hotel Boutique (Asunción, Paraguay)
 - 🎓 Cursando **Maestría en Educación Superior** — Universidad Nacional Siglo XX
 - 💡 Mi proyecto de grado: una **PWA con Business Intelligence** para optimizar la gestión de una imprenta
@@ -90,26 +99,37 @@ class Sergio:
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/Cambadios/ImprentaCamiri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cambadios&repo=ImprentaCamiri&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Cambadios/CabreraGriller">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cambadios&repo=CabreraGriller&theme=tokyonight&hide_border=true" />
-</a>
-<br>
-<a href="https://github.com/Cambadios/JulyosWEB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cambadios&repo=JulyosWEB&theme=tokyonight&hide_border=true" />
-</a>
+### 🏗️ [ImprentaCamiri](https://github.com/Cambadios/ImprentaCamiri)
+Proyecto de grado: PWA con módulo de Business Intelligence, dashboards en tiempo real, backend en Python y frontend en React, con SQL + MongoDB.
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Repo size](https://img.shields.io/github/languages/code-size/Cambadios/ImprentaCamiri?style=flat-square&color=6366F1)
 
-> 🏗️ **ImprentaCamiri** — Proyecto de grado: PWA con módulo de Business Intelligence, dashboards en tiempo real, backend en Python y frontend en React, con SQL + MongoDB.
->
-> 🍽️ **CabreraGriller** — Aplicación web para gestión de menú digital y automatización de pedidos de un restaurante, con actualización de ventas en tiempo real.
->
-> ☕ **JulyosWEB** — Desarrollo web freelance con enfoque en experiencia de usuario y automatización de procesos de negocio.
+</td>
+<td width="33%" valign="top">
+
+### 🍽️ [CabreraGriller](https://github.com/Cambadios/CabreraGriller)
+Aplicación web para gestión de menú digital y automatización de pedidos de un restaurante, con actualización de ventas en tiempo real.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Repo size](https://img.shields.io/github/languages/code-size/Cambadios/CabreraGriller?style=flat-square&color=6366F1)
+
+</td>
+<td width="33%" valign="top">
+
+### ☕ [JulyosWEB](https://github.com/Cambadios/JulyosWEB)
+Desarrollo web freelance con enfoque en experiencia de usuario y automatización de procesos de negocio.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Repo size](https://img.shields.io/github/languages/code-size/Cambadios/JulyosWEB?style=flat-square&color=6366F1)
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -134,13 +154,22 @@ class Sergio:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+
+![Seguidores](https://img.shields.io/github/followers/Cambadios?label=Seguidores&style=for-the-badge&color=6366F1&labelColor=1a1a2e)
+![Repositorios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Cambadios&label=Repositorios&query=public_repos&style=for-the-badge&color=22D3EE&labelColor=1a1a2e)
+![Perfil creado](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Cambadios&label=Miembro%20desde&query=created_at&style=for-the-badge&color=10B981&labelColor=1a1a2e)
+
+</div>
+
+> 💡 Si más adelante querés las tarjetas visuales de estadísticas (contribuciones, racha, lenguajes más usados), se pueden agregar con [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — es un servicio gratuito que a veces se satura y las imágenes no cargan. Te dejo la nota abajo por si querés intentar activarlo más adelante.
+
+<!--
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Cambadios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cambadios&theme=tokyonight&hide_border=true" width="49%" />
 </div>
+-->
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cambadios&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</div>
 
 <br>
 
@@ -168,6 +197,6 @@ class Sergio:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
 
-*"Camba"*
+*"Convertir problemas reales en soluciones digitales escalables."*
 
 </div>
