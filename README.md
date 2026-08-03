@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Encabezado animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Sergio%20Uriona&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20%7C%20Full%20Stack%20Developer%20%7C%20Business%20Intelligence&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing animado -->
 <a href="https://github.com/Cambadios">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Desarrollo+web+full-stack+con+React+%2B+Python;PWA+%2B+Business+Intelligence;SQL+%2B+MongoDB+%7C+APIs+REST;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -35,14 +33,6 @@ class Sergio:
         return "Convertir problemas reales en soluciones digitales escalables."
 ```
 
-<!-- OPCIÓN B: versión sin código, más simple. Si preferís esta, borrá el bloque de código de arriba y descomentá este texto:
-
-Soy Ingeniero de Sistemas graduado con honores de la Escuela Militar de Ingeniería (EMI), especializado en
-desarrollo web full-stack y Business Intelligence. Mi enfoque está en construir soluciones digitales
-escalables usando Python, React, SQL y MongoDB. Fuera del código, soy futbolista activo en Primera División
-y me apasiona seguir aprendiendo cosas nuevas todo el tiempo.
-
--->
 
 - 🔭 Actualmente trabajando como **Técnico de Soporte de TI y Sistemas** en Solara Hotel Boutique (Asunción, Paraguay)
 - 🎓 Cursando **Maestría en Educación Superior** — Universidad Nacional Siglo XX
@@ -161,14 +151,10 @@ Desarrollo web freelance con enfoque en experiencia de usuario y automatización
 
 </div>
 
-> 💡 Si más adelante querés las tarjetas visuales de estadísticas (contribuciones, racha, lenguajes más usados), se pueden agregar con [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — es un servicio gratuito que a veces se satura y las imágenes no cargan. Te dejo la nota abajo por si querés intentar activarlo más adelante.
-
-<!--
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Cambadios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cambadios&theme=tokyonight&hide_border=true" width="49%" />
 </div>
--->
 
 
 <br>
@@ -209,6 +195,6 @@ Desarrollo web freelance con enfoque en experiencia de usuario y automatización
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
 
-*"Convertir problemas reales en soluciones digitales escalables."*
+*"Busco laburo pas"*
 
 </div>
