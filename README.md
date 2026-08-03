@@ -20,13 +20,20 @@
 
 ## 👨‍💻 Sobre mí
 
+```python
+class Sergio:
+    def __init__(self):
+        self.nombre = "Sergio André Uriona Arteaga"
+        self.rol = "Ingeniero de Sistemas"
+        self.formacion = "Escuela Militar de Ingeniería (EMI) 🎖️ — Graduado con honores (beca 30% al mérito)"
+        self.especialidad = ["Desarrollo Web Full-Stack", "Business Intelligence", "PWA"]
+        self.stack = ["Python", "React", "SQL", "MongoDB", "JavaScript"]
+        self.idiomas = {"Español": "Nativo", "Inglés": "C1 - Avanzado"}
+        self.pasiones = ["Código limpio 🧹", "Fútbol ⚽", "Aprender cosas nuevas 📚"]
 
-
-
-Soy Ingeniero de Sistemas graduado con honores de la Escuela Militar de Ingeniería (EMI), especializado en
-desarrollo web full-stack y Business Intelligence. Mi enfoque está en construir soluciones digitales
-escalables usando Python, React, SQL y MongoDB. Fuera del código, soy futbolista activo en Primera División
-y me apasiona seguir aprendiendo cosas nuevas todo el tiempo.
+    def filosofia(self):
+        return "Convertir problemas reales en soluciones digitales escalables."
+```
 
 
 
